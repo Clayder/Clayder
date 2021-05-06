@@ -47,7 +47,7 @@ Feel free to take a look at my portfolio and drop me a message.
 
 [![Telegram](http://img.shields.io/badge/-Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/clayder)
 
-[![Linkedin: peterclayder](http://img.shields.io/badge/-peterclayder-2CA5E0?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/peterclayder)
+[![Telegram](http://img.shields.io/badge/-peterclayder-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterclayder)
 
 [![Gmail Badge](https://img.shields.io/badge/-peterclayder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=peterclayder@gmail.com)](mailto:peterclayder@gmail.com)
 
